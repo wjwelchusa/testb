@@ -5,13 +5,22 @@
 #include <iostream>
 #include <cstdlib>
 #include <string>
+#include <fstream>
 
 using namespace std;
 
+struct Person{
+	string name;
+	int age;
+	int studentID;
+
+};
+
 int main()
 {
-	cout << "Hello World!" << endl;
-	cout << "This is a change! " << endl;
+    
+	
+	
 	return 0;
 }
 	
