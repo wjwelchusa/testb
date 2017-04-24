@@ -1,5 +1,5 @@
-// Exam 1 Program
-// 12 Apr 2017
+// Baseline program for pointer discussion.
+// Apr 2017
 // g++ IDE
 
 #include <iostream>
